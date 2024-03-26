@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+# This code is originally created and code on Jupiter Notebook.
 
 # # Build ANN classifier using backpropagation algorithm
 
